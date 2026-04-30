@@ -1,0 +1,9 @@
+timit/
+TIMIT/
+__pycache__/
+*.pyc
+*.pyo
+ray_results/
+.DS_Store
+Thumbs.db
+*.docx
